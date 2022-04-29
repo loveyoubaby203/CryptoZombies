@@ -1,1 +1,1 @@
-# CryptoZombies
+# War-of-Zombies
